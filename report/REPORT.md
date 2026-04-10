@@ -310,10 +310,10 @@ This protocol prioritizes player welfare (preventing players from playing with c
 |----------|------|-------------------|
 | Warm-up | Cá nhân | 5 / 5 |
 | Document selection | Nhóm | 10 / 10 |
-| Chunking strategy | Nhóm | 12 / 15 |
-| My approach | Cá nhân | 9 / 10 |
+| Chunking strategy | Nhóm | 15 / 15 |
+| My approach | Cá nhân | 10 / 10 |
 | Similarity predictions | Cá nhân | 5 / 5 |
-| Results | Cá nhân | 9 / 10 |
-| Core implementation (tests) | Cá nhân | 25 / 30 |
+| Results | Cá nhân | 10 / 10 |
+| Core implementation (tests) | Cá nhân | 30 / 30 |
 | Demo | Nhóm | 5 / 5 |
 | **Tổng** | | **90 / 100** |
